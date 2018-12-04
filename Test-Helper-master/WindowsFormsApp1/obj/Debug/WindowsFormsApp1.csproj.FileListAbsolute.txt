@@ -1,0 +1,126 @@
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Web.xml
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formularios.Cadastro.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Itemform.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuarioform.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Indicadorform.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InserirIndicador.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InserirItem.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InserirUsuario.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ItemIndicadorForm.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacaoItemIndicadorForm.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacionarEntreItensIndicadoresForm.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacionarItemEIndicadorForm.resources
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\renan\Desktop\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Web.dll
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Web.xml
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formularios.Cadastro.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Itemform.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuarioform.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Indicadorform.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InserirIndicador.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InserirItem.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ItemIndicadorForm.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacaoItemIndicadorForm.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacionarEntreItensIndicadoresForm.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacionarItemEIndicadorForm.resources
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Pictures\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Web.xml
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formularios.Cadastro.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Itemform.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuarioform.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Indicadorform.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InserirIndicador.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InserirItem.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ItemIndicadorForm.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacaoItemIndicadorForm.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacionarEntreItensIndicadoresForm.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacionarItemEIndicadorForm.resources
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\renan\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Web.dll
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\bin\Debug\MySql.Web.xml
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formularios.Cadastro.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Itemform.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuarioform.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Indicadorform.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InserirIndicador.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InserirItem.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ItemIndicadorForm.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacaoItemIndicadorForm.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacionarEntreItensIndicadoresForm.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RelacionarItemEIndicadorForm.resources
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Matheus\Desktop\Test-Helper-master V0.1.5.4\Test-Helper-master\Test-Helper-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

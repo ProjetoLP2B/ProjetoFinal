@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{632AC140-17F9-47E8-8550-6A50B9801508}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.13.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.EntityFramework, Version=8.0.13.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySQL.Data.EntityFrameworkCore, Version=8.0.13.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySQL.Data.EntityFrameworkCore.Design, Version=8.0.13.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Web, Version=8.0.13.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conexao\DAO.cs" />
+    <Compile Include="formularios\Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Cadastro.Designer.cs">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\Indicadorform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Indicadorform.Designer.cs">
+      <DependentUpon>Indicadorform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="indicador\Indicador.cs" />
+    <Compile Include="conexao\Conexao.cs" />
+    <Compile Include="formularios\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="indicador\IndicadorDao.cs" />
+    <Compile Include="formularios\Itemform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Itemform.Designer.cs">
+      <DependentUpon>Itemform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\InserirIndicador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\InserirIndicador.Designer.cs">
+      <DependentUpon>InserirIndicador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\InserirItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\InserirItem.Designer.cs">
+      <DependentUpon>InserirItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\ItemIndicadorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\ItemIndicadorForm.Designer.cs">
+      <DependentUpon>ItemIndicadorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="itemIndicador\ItemIndicador.cs" />
+    <Compile Include="itemIndicador\ItemIndicadorDao.cs" />
+    <Compile Include="item\Item.cs" />
+    <Compile Include="item\ItemDao.cs" />
+    <Compile Include="formularios\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Log\Log.cs" />
+    <Compile Include="Log\LogDAO.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="formularios\Logform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\Logform.Designer.cs">
+      <DependentUpon>Logform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\RelacaoItemIndicadorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\RelacaoItemIndicadorForm.Designer.cs">
+      <DependentUpon>RelacaoItemIndicadorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\RelacionarEntreItensIndicadoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\RelacionarEntreItensIndicadoresForm.Designer.cs">
+      <DependentUpon>RelacionarEntreItensIndicadoresForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularios\RelacionarItemEIndicadorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularios\RelacionarItemEIndicadorForm.Designer.cs">
+      <DependentUpon>RelacionarItemEIndicadorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="relacao\RelacaoItemIndicador.cs" />
+    <Compile Include="relacao\RelacaoItemIndicadoresDao.cs" />
+    <Compile Include="usuario\Usuario.cs" />
+    <Compile Include="usuario\UsuarioDAO.cs" />
+    <EmbeddedResource Include="formularios\Cadastro.resx">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Itemform.resx">
+      <DependentUpon>Itemform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Logform.resx">
+      <DependentUpon>Logform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\Indicadorform.resx">
+      <DependentUpon>Indicadorform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\InserirIndicador.resx">
+      <DependentUpon>InserirIndicador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\InserirItem.resx">
+      <DependentUpon>InserirItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\ItemIndicadorForm.resx">
+      <DependentUpon>ItemIndicadorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="formularios\RelacaoItemIndicadorForm.resx">
+      <DependentUpon>RelacaoItemIndicadorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\RelacionarEntreItensIndicadoresForm.resx">
+      <DependentUpon>RelacionarEntreItensIndicadoresForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularios\RelacionarItemEIndicadorForm.resx">
+      <DependentUpon>RelacionarItemEIndicadorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MySql.Data">
+      <Version>8.0.13</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgsair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pesquisar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\relaçao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\itemindicador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Indicador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TEST HELPER - Logo do Projeto.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
